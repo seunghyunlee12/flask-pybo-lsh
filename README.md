@@ -8,22 +8,22 @@
 
 ### 폴더와 파일 구조
 
-flask-pybo
-```├─ .idea
-```│ └─ inspectionProfiles
-```├─ migrations
-```│ ├─ versions
-```│ │ └─ pycache
-```│ └─ pycache
-```├─ pybo
-```│ ├─ static
-```│ ├─ templates
-```│ │ ├─ answer
-```│ │ ├─ auth
-```│ │ └─ question
-```│ ├─ views
-```│ │ └─ pycache
-```│ └─ pycache
+flask-pybo  
+├─ .idea  
+│ └─ inspectionProfiles  
+├─ migrations  
+│ ├─ versions  
+│ │ └─ pycache  
+│ └─ pycache  
+├─ pybo  
+│ ├─ static  
+│ ├─ templates  
+│ │ ├─ answer  
+│ │ ├─ auth  
+│ │ └─ question  
+│ ├─ views  
+│ │ └─ pycache  
+│ └─ pycache  
 └─ pycache  
 
 - **models.py**: 데이터베이스를 처리하는 파일로 ORM을 지원하는 SQLAlchemy를 사용하여 모델 기반으로 데이터베이스를 처리합니다.
