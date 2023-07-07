@@ -24,7 +24,7 @@ flask-pybo
 ```│ ├─ views
 ```│ │ └─ pycache
 ```│ └─ pycache
-```└─ pycache```
+└─ pycache  
 
 - **models.py**: 데이터베이스를 처리하는 파일로 ORM을 지원하는 SQLAlchemy를 사용하여 모델 기반으로 데이터베이스를 처리합니다.
 - **forms.py**: 서버로 전송된 폼을 처리하는 파일로 WTForms 라이브러리를 사용하여 모델 기반으로 폼을 처리합니다.
