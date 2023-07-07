@@ -8,8 +8,8 @@
 
 ### 폴더와 파일 구조
 
-flask-pybo```
-├─ .idea
+flask-pybo
+```├─ .idea
 │ └─ inspectionProfiles
 ├─ migrations
 │ ├─ versions
